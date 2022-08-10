@@ -1,0 +1,122 @@
+body{
+    margin: 0 px;
+    font-family: Poppins light;
+}
+h1{
+    font-size: 35px;
+   
+    margin-top: 50px;
+}
+.half-part p{
+    margin-bottom: 40px;
+}
+.name-style{
+    font-size: 50px;
+    color: lightcoral;
+
+}
+.half-part{
+    width: 40%;
+   padding-left: 2%;
+    float:left;
+    margin-left: 5%; 
+}
+.half-part img{
+    width: 100%;
+   
+}
+
+
+
+.link-button{
+    background-image:linear-gradient(20deg, lightsalmon, tomato);
+  
+    color: white; 
+   font-size: 20px;
+   border-radius: 5px;
+   text-decoration: none;
+   padding: 15px;
+}
+.header-section{
+    height: 550px;
+  
+    background-image: url("header-bg.png");
+    background-size: 100%;
+  
+}
+
+
+.biography-section{
+    height: 600px;
+    background-size: 100%;
+    background-image: url("biography-bg.png");
+}
+.my-work{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.image-work{
+    float:left;
+    width: 27%;
+  padding-left: 1%;
+  margin-left: 5%;
+} 
+img{
+    width: 100%;
+   
+
+}
+.image-section{
+    background-image: url(latest-work-bg.png);
+    background-size: 100%;
+    height: 400px;
+}
+.address{
+        width: 500px;
+        height: 350px;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+.p-bold{
+    font-weight: 900;
+    font-size: large;
+    
+}
+ p{
+    font-size: small;
+}
+
+
+.paragraph{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.link-style{
+    width: 400px;
+    height: 100px;
+    background-color: coral;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    
+}
+.link-style a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+.last-section{
+    background-image: url(footer-bg.png);
+    background-size: 100%;
+    height: 500px;
+}
+footer p{
+    text-align: center;
+ font-size: small;
+}
